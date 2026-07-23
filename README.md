@@ -19,4 +19,4 @@ Minha participação neste desafio visa não apenas aprimorar minhas habilidades
 Guia de Configuração do Ambiente
 Para começar, segui as instruções fornecidas por Paulo Oliveira para configurar o ambiente Python no VS Code.
 
-Estou animada para começar essa jornada e ver meu progresso ao longo desses 21 dias!
+Estou animado para começar essa jornada e ver meu progresso ao longo desses 21 dias!
